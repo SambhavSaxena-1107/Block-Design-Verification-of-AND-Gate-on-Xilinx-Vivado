@@ -1,1 +1,2 @@
 # Block-Design-Verification-of-AND-Gate-on-Xilinx-Vivado
+This repository provides resources and examples for block design verification of a simple AND gate on Xilinx Vivado. The project demonstrates how to verify the functionality of basic logic gates using Vivado's block design and simulation tools. It aims to help users understand the verification process and ensure the correctness of their FPGA designs at a fundamental level.
